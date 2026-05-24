@@ -1,5 +1,4 @@
-# DSA
-# DSA Revision notes
+# DSA Revision 
 
 Welcome to my Data Structures and Algorithms repository! This project serves as a structured, topic-wise handbook for algorithms. will progress daily ,
 
