@@ -10,6 +10,8 @@ the array is sorted.
 - Space Complexity: O(1) as it happens in-place.
 */
 
+link to practice : https://www.geeksforgeeks.org/problems/selection-sort/1
+
 //Here is the GFG & leetcode code snippet
 class Solution {
   public:
